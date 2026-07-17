@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/alfred-banner.jpeg" alt="Alfred's Manor" width="100%">
+</p>
+
 # Alfred's Manor 🎩
 
 🌐 **Português (BR)** · [English](./README.md)
