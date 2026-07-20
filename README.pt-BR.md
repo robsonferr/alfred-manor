@@ -46,6 +46,16 @@ Invoque uma skill pela frase-gatilho ou pelo nome de comando — cada README doc
 
 O homônimo da mansão — **Alfred**, a persona de mordomo que cura tudo isto — talvez também se mude para cá, como uma persona limpa e parametrizada. Ainda não: uma persona só é publicada após uma auditoria linha a linha em busca de qualquer coisa pessoal.
 
+## Apoie
+
+Se estas skills forem úteis, considere me pagar um café:
+
+<a href="https://buymeacoffee.com/robsonferr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"></a>
+
 ## Licença
 
 MIT — veja [LICENSE](./LICENSE).
+
+## Autor
+
+Feito com 🤟 por Robson & Alfred

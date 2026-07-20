@@ -54,7 +54,7 @@ If you find this Skills useful, consider buying me a coffee:
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
 ## Author
 
