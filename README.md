@@ -48,7 +48,7 @@ The manor's namesake — **Alfred**, the butler persona that curates all this �
 
 ## Support
 
-If you find Stash useful, consider buying me a coffee:
+If you find this Skills useful, consider buying me a coffee:
 
 <a href="https://buymeacoffee.com/robsonferr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"></a>
 
@@ -58,5 +58,5 @@ If you find Stash useful, consider buying me a coffee:
 
 ## Author
 
-Built with 🤟 by Robson
+Built with 🤟 by Robson & Alfred
 
