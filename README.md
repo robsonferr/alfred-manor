@@ -46,6 +46,17 @@ Invoke a skill by its trigger phrase or slash name — each README documents its
 
 The manor's namesake — **Alfred**, the butler persona that curates all this — may move in too, as a clean, parameterized persona. Not yet: a persona ships only after a line-by-line audit for anything personal.
 
+## Support
+
+If you find Stash useful, consider buying me a coffee:
+
+<a href="https://buymeacoffee.com/robsonferr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"></a>
+
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+[MIT](LICENSE.md)
+
+## Author
+
+Built with 🤟 by Robson
+
