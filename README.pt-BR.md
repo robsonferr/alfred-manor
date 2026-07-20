@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/alfred-banner.jpeg" alt="Alfred's Manor" width="100%">
+  <img src="./assets/alfred-banner.jpeg" alt="Alfred's Manor" width="50%">
 </p>
 
 # Alfred's Manor 🎩
