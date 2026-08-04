@@ -10,6 +10,8 @@ A model assessing its own context window has a blind spot: as the window fills a
 
 It's the qualitative complement to a context-% meter: the meter tells you *how full*, the auditor tells you *how much of that is still worth keeping*.
 
+> ⚠️ **Built for Claude Code specifically — more so than this house's other skills.** The auditor reads the session transcript as a `.jsonl` file at Claude Code's on-disk path convention, and the agent file uses Claude Code's subagent frontmatter (`name`/`tools`/`model`/`effort`). Porting to Codex, OpenCode, Grok, or another harness means rewriting *how the transcript is located and parsed* (Step 1 of `SKILL.md`), not just swapping a config value — check whether your harness even persists a raw, greppable transcript before adopting this one.
+
 ## The cast
 
 | Role | Job |

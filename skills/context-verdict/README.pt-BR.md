@@ -10,6 +10,8 @@ Um modelo avaliando a própria janela de contexto tem um ponto cego: à medida q
 
 É o complemento qualitativo de um medidor de contexto em %: o medidor diz *quão cheio*, o auditor diz *quanto disso ainda vale a pena manter*.
 
+> ⚠️ **Feita para o Claude Code especificamente — mais do que as outras skills desta casa.** O auditor lê o transcript da sessão como um arquivo `.jsonl` na convenção de caminho em disco do Claude Code, e o arquivo de agente usa o frontmatter de subagente do Claude Code (`name`/`tools`/`model`/`effort`). Portar para Codex, OpenCode, Grok ou outro harness exige reescrever *como o transcript é localizado e parseado* (Step 1 do `SKILL.md`), não só trocar um valor de config — confira se seu harness sequer persiste um transcript bruto e "grepável" antes de adotar esta skill.
+
 ## O elenco
 
 | Papel | Função |
