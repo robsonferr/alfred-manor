@@ -6,21 +6,21 @@
 
 🌐 **English** · [Português (BR)](./README.pt-BR.md)
 
-A curated house of agent skills — each one convenes a themed **cast** of specialists to do one job well. Model-agnostic, self-contained, MIT-licensed. *Kept by Robson & Alfred.*
+A curated house of agent skills — each one brings in **independent perspective** to do one job well, whether that's a themed panel debating or a single outside judge. Model-agnostic, self-contained, MIT-licensed. *Kept by Robson & Alfred.*
 
 ## The skills
 
-| Skill | What it does | The cast |
+| Skill | What it does | Who's brought in |
 |-------|--------------|----------|
 | [**matrix-code-review**](./skills/matrix-code-review/) | Multi-model, multi-vendor code review orchestrated on one canvas | Morpheus · Neo · Agent Smith · The Architect · The Oracle · Link |
 | [**council**](./skills/council/) | Deliberate a hard, costly, or uncertain decision — five lenses, one verdict | Elrond · Gandalf · Boromir · Aragorn · Sam · Frodo |
-| [**context-verdict**](./skills/context-verdict/) | Judge the current session's own context quality from the raw transcript — signal vs. noise | context-auditor |
+| [**context-verdict**](./skills/context-verdict/) | Judge the current session's own context quality from the raw transcript — signal vs. noise | context-auditor, a single fresh outsider |
 
-*Every skill here assembles a crew. That's the house style.*
+*Every skill here refuses to let one contaminated voice grade its own homework. That's the house style.*
 
 ## The idea
 
-Most agent skills are a single voice following a checklist. The ones in this house do something different: they **convene a cast** — each member locked into one lens or role — and let a chair weigh the room before answering. A code review becomes a crew of different-vendor models catching each other's blind spots; a hard decision becomes a council that argues before it rules.
+Most agent skills are a single voice following a checklist. The ones in this house do something different: they bring in a perspective the main voice doesn't have. Sometimes that's a **full cast** — each member locked into one lens or role, debating before a chair weighs the room. Sometimes it's a **single fresh outsider**, dispatched precisely because it never saw what came before and can't inherit the same blind spot. A code review becomes a crew of different-vendor models catching each other's blind spots; a hard decision becomes a council that argues before it rules; a context check becomes an auditor who never watched the conversation degrade.
 
 Two consequences worth knowing:
 

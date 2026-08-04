@@ -6,21 +6,21 @@
 
 🌐 **Português (BR)** · [English](./README.md)
 
-Uma casa curada de agent skills — cada uma convoca um **elenco** temático de especialistas para fazer um trabalho bem feito. Agnóstica de modelo, autossuficiente, licença MIT. *Mantida por Robson & Alfred.*
+Uma casa curada de agent skills — cada uma traz uma **perspectiva independente** para fazer um trabalho bem feito, seja um painel temático debatendo, seja um único juiz de fora. Agnóstica de modelo, autossuficiente, licença MIT. *Mantida por Robson & Alfred.*
 
 ## As skills
 
-| Skill | O que faz | O elenco |
+| Skill | O que faz | Quem é convocado |
 |-------|-----------|----------|
 | [**matrix-code-review**](./skills/matrix-code-review/) | Code review multi-modelo e multi-vendor, orquestrado num só canvas | Morpheus · Neo · Agent Smith · The Architect · The Oracle · Link |
 | [**council**](./skills/council/) | Delibera uma decisão difícil, cara ou incerta — cinco lentes, um veredito | Elrond · Gandalf · Boromir · Aragorn · Sam · Frodo |
-| [**context-verdict**](./skills/context-verdict/) | Julga a qualidade do próprio contexto da sessão a partir do transcript bruto — sinal vs. ruído | context-auditor |
+| [**context-verdict**](./skills/context-verdict/) | Julga a qualidade do próprio contexto da sessão a partir do transcript bruto — sinal vs. ruído | context-auditor, um único forasteiro |
 
-*Toda skill aqui monta uma trupe. É o estilo da casa.*
+*Toda skill aqui se recusa a deixar uma voz contaminada corrigir a própria prova. É o estilo da casa.*
 
 ## A ideia
 
-A maioria das agent skills é uma voz só seguindo um checklist. As desta casa fazem diferente: elas **convocam um elenco** — cada membro travado numa lente ou papel — e deixam um presidente pesar a sala antes de responder. Um code review vira uma trupe de modelos de vendors diferentes pegando os pontos cegos uns dos outros; uma decisão difícil vira um conselho que discute antes de decidir.
+A maioria das agent skills é uma voz só seguindo um checklist. As desta casa fazem diferente: elas trazem uma perspectiva que a voz principal não tem. Às vezes é um **elenco completo** — cada membro travado numa lente ou papel, debatendo antes de um presidente pesar a sala. Às vezes é um **único forasteiro fresco**, disparado justamente porque nunca viu o que veio antes e não pode herdar o mesmo ponto cego. Um code review vira uma trupe de modelos de vendors diferentes pegando os pontos cegos uns dos outros; uma decisão difícil vira um conselho que discute antes de decidir; uma checagem de contexto vira um auditor que nunca viu a conversa degradar.
 
 Duas consequências que vale saber:
 
