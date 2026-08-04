@@ -14,6 +14,7 @@ Uma casa curada de agent skills — cada uma convoca um **elenco** temático de 
 |-------|-----------|----------|
 | [**matrix-code-review**](./skills/matrix-code-review/) | Code review multi-modelo e multi-vendor, orquestrado num só canvas | Morpheus · Neo · Agent Smith · The Architect · The Oracle · Link |
 | [**council**](./skills/council/) | Delibera uma decisão difícil, cara ou incerta — cinco lentes, um veredito | Elrond · Gandalf · Boromir · Aragorn · Sam · Frodo |
+| [**context-verdict**](./skills/context-verdict/) | Julga a qualidade do próprio contexto da sessão a partir do transcript bruto — sinal vs. ruído | context-auditor |
 
 *Toda skill aqui monta uma trupe. É o estilo da casa.*
 
@@ -34,6 +35,7 @@ Cada skill se documenta:
 
 - [**matrix-code-review**](./skills/matrix-code-review/README.pt-BR.md) — revisa qualquer git diff; roda melhor no [Maestri](https://www.themaestri.app), com fallback só-Claude.
 - [**council**](./skills/council/README.pt-BR.md) — precisa de um harness onde a thread principal pode disparar subagentes (ex.: Claude Code).
+- [**context-verdict**](./skills/context-verdict/README.pt-BR.md) — precisa de um harness onde a thread principal pode disparar subagentes que leem arquivos em disco (ex.: Claude Code).
 
 ## Uso
 
