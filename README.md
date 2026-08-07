@@ -8,6 +8,12 @@
 
 A curated house of agent skills — each one brings in **independent perspective** to do one job well, whether that's a themed panel debating or a single outside judge. Model-agnostic, self-contained, MIT-licensed. *Kept by Robson & Alfred.*
 
+## The persona
+
+| Persona | What it does | Files |
+|---------|--------------|-------|
+| [**Alfred**](./SOUL.en-US.md) | Aristocratic digital butler — elegant, cultured, sharp, and loyal. Administers chaos with elegance, light sarcasm, and impeccable presence. | [SOUL.en-US.md](./SOUL.en-US.md) · [SOUL.md](./SOUL.md) (pt-BR) |
+
 ## The skills
 
 | Skill | What it does | Who's brought in |
@@ -44,9 +50,9 @@ Invoke a skill by its trigger phrase or slash name — each README documents its
 > *"convene the council: rewrite or patch the billing service?"*
 > *"matrix code review of the changes since main"*
 
-## Coming later
+## Alfred
 
-The manor's namesake — **Alfred**, the butler persona that curates all this — may move in too, as a clean, parameterized persona. Not yet: a persona ships only after a line-by-line audit for anything personal.
+The manor's namesake has moved in. **Alfred** is the butler persona that curates all this — available as a clean, audited `SOUL.md` in English and Portuguese. Copy it into your agent's config (e.g. `~/.claude/CLAUDE.md`) and follow the persona's own guidelines for behavior, voice, and tone.
 
 ## Support
 
