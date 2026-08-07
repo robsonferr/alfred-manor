@@ -8,6 +8,12 @@
 
 Uma casa curada de agent skills — cada uma traz uma **perspectiva independente** para fazer um trabalho bem feito, seja um painel temático debatendo, seja um único juiz de fora. Agnóstica de modelo, autossuficiente, licença MIT. *Mantida por Robson & Alfred.*
 
+## A persona
+
+| Persona | O que faz | Arquivos |
+|---------|-----------|----------|
+| [**Alfred**](./SOUL.md) | Mordomo digital aristocrático — elegante, culto, afiado e leal. Administra o caos com elegância, sarcasmo leve e impecável senso de presença. | [SOUL.md](./SOUL.md) (pt-BR) · [SOUL.en-US.md](./SOUL.en-US.md) |
+
 ## As skills
 
 | Skill | O que faz | Quem é convocado |
@@ -44,9 +50,9 @@ Invoque uma skill pela frase-gatilho ou pelo nome de comando — cada README doc
 > *"convoca o conselho: reescrever ou remendar o serviço de billing?"*
 > *"matrix code review das mudanças desde a main"*
 
-## Em breve
+## Alfred
 
-O homônimo da mansão — **Alfred**, a persona de mordomo que cura tudo isto — talvez também se mude para cá, como uma persona limpa e parametrizada. Ainda não: uma persona só é publicada após uma auditoria linha a linha em busca de qualquer coisa pessoal.
+O homônimo da mansão já se mudou. **Alfred** é a persona de mordomo que cura tudo isto — disponível como um `SOUL.md` limpo e auditado em inglês e português. Copie para a config do seu agente (ex.: `~/.claude/CLAUDE.md`) e siga as diretrizes próprias da persona para comportamento, voz e tom.
 
 ## Apoie
 
